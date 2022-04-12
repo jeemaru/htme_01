@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>Insert title here</title>
+	</head>
+	
+	<body>
+		<h1>html5</h1>
+		<h2>기본태그</h2>
+		<h3>테이블 thead tbody</h3>
+		
+		<table border="1">
+			<thead>
+				<tr>
+					<th>번호</th>
+					<th>제목</th>
+					<th>작성자</th>
+					<th>조회수</th>
+					<th>작성일</th>
+					<th>관리</th>
+					
+				</tr>
+			</thead>
+			
+			<tbody>
+				<tr>
+					<td>1</td>
+					<td>첫번째 게시물입니다.</td>
+					<td>김지수</td>
+					<td>100</td>
+					<td>2022-03-01</td>
+					<td>[삭제]</td>
+				</tr>
+				<tr>
+					<td>2</td>
+					<td>두번째 게시물입니다.</td>
+					<td>김지수</td>
+					<td>1234</td>
+					<td>2022-03-12</td>
+					<td>[등록]</td>
+				</tr>
+				<tr>
+					<td>3</td>
+					<td>세번째 게시물입니다.</td>
+					<td>김지수</td>
+					<td>268</td>
+					<td>2022-03-28</td>
+					<td>[수정]</td>
+				</tr>
+			</tbody>
+		</table>
+		
+	</body>
+	
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>Insert title here</title>
+	</head>
+	
+	<body>
+		<h1>인터넷 개론</h1>
+	
+		<h2>5.주요 국가별 속도</h2>
+		
+		<table border="1">
+			<tr>
+				<td>국가명</td>
+				<td>속도(단위:mb/초)</td>
+			</tr>
+			<tr>
+				<td><img src="./img/Korea.jpg>대한민국</td>
+				<td>20.97</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>15.78</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>14.96</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>13.12</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>12.99</td>
+			</tr>
+		</table>
+	</body>
+</html>

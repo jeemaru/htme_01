@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>Insert title here</title>
+	</head>
+	
+	
+	<body>
+		<p>목차</p>
+		<ol>
+			<li>이력서</li>
+			<li>자기소개서</li>
+			<li>경력기술서</li>
+		</ol>
+	<hr>
+	<p>
+	<p>
+	
+		<h1>이	력	서</h1>
+		
+		<table border="1">
+			<tr>
+				<td colspan="2"rowspan="2">성명</td>
+				<td colspan="2">한글</td>
+				<td colspan="2"> </td>
+				<td colspan="2">주민번호</td>
+				<td colspan="2"> </td>
+				<td colspan="2"rowspan="4">사진</td>
+
+			</tr>
+			<tr>
+				<td colspan="2">한자</td>
+				<td colspan="2"> </td>
+				<td colspan="2">생년월일</td>
+				<td colspan="2"> </td>
+			</tr>
+			<tr>
+				<td colspan="2">전화</td>
+				<td colspan="2">집전화</td>
+				<td colspan="2"> </td>
+				<td colspan="2">휴대전화</td>
+				<td colspan="2"></td>
+			</tr>
+			<tr>
+				<td colspan="2">주소</td>
+				<td>우편번호( )</td>
+				<td colspan="7"></td>
+			</tr>
+		</table>
+	
+	</body>
+</html>

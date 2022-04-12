@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html lang="ko"> <!-- 한국어문서만 검색할때, 음성으로 할때 한국어 음성지원 -->
+    <head>
+        <meta charset="UTF-8"> <!-- 브라우저가 문서를 해석할때 필요한 정보 -->
+        <title>스타일시트</title>
+		<!-- 스타일시트자리 -->
+		<style>
+			.box {background-color: #ffff00;
+				  min-width: 960px;
+				  max-width: 800px;
+				  
+				  max-height: 300px;
+				  min-height: 160px;}
+			
+		</style>
+		
+    </head>
+
+    <body>
+			<!-- max = 이거 이상 늘어나지 않음 -->
+			<!-- min = 이거 이상 줄어들지 않음 -->
+        
+			<p class="box">여름 장이란 애시당초에 글러서, 해는 아직 중천에 있건만 장판은 벌써 쓸쓸하고 더운 햇발이 벌려 놓은 
+               전 휘장 밑으로 등줄기를 훅훅 볶는다. 마을 사람들은 거지반 돌아간 뒤요, 팔리지 못한 나무꾼패가 길거리에 
+               
+           </p>
+			
+		
+    </body>
+
+</html>
+

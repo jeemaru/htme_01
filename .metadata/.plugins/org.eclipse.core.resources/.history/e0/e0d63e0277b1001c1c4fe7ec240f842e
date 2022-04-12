@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>Insert title here</title>
+	</head>
+	
+	<body>
+		<h1>html5</h1>
+		<h2>기본태그</h2>
+		<h3>테이블 thead tbody</h3>
+		
+		<table border="1">
+			<thead>
+				<tr>
+				</tr>
+			</thead>
+			
+			<tbody>
+			</tbody>
+		</table>
+		
+	</body>
+	
+</html>
